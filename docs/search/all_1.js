@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['set_5faddress',['set_address',['../classuEEPROMLib.html#aee67fc43dcac7c75c347f445c340c85c',1,'uEEPROMLib']]]
+  ['page_5fsize_2',['page_size',['../classuEEPROMLib.html#a5872c1eb00081ab21f1100acbc90319e',1,'uEEPROMLib']]]
 ];
